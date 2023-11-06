@@ -1,4 +1,4 @@
 # Big Idea Final Project
-Accessibility 
-best to get poisoned 
-best odds of survival 
+Accessibility - walkability, bike lanes, 
+best to get poisoned - food critic score, health code violations, hospital response
+best odds of survival - hospitals, dispatch time, cell towers
