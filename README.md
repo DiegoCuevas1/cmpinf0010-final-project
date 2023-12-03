@@ -3,7 +3,7 @@
 ### Diego Cuevas: dac208@pitt.edu
 ### Krish Pandya: kcp25@pitt.edu
 ## Best Neighborhoods to find a ghost
-1. Deaths
+1. Types of Deaths
 https://data.wprdc.org/dataset/allegheny-county-mortality-indicators
 2. Older Housing
 https://data.wprdc.org/dataset/pre-1950-housing
