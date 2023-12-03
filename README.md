@@ -1,5 +1,5 @@
 # Spooky Vibe Rating Committee 
-### Amy Mullen: Arm339@pitt.edu
+### Amy Mullen: arm339@pitt.edu
 ### Diego Cuevas: dac208@pitt.edu
 ## Best Neighborhoods to find a ghost
 1. Deaths
