@@ -1,4 +1,4 @@
-# Spooky Vibe Rating Committee 
+# Spooky Vibe Rating Committee (Group 14)
 ### Amy Mullen: arm339@pitt.edu
 ### Diego Cuevas: dac208@pitt.edu
 ### Krish Pandya: kcp25@pitt.edu
