@@ -1,5 +1,6 @@
 # Spooky Vibe Rating Committee 
 ### Amy Mullen: Arm339@pitt.edu
+### Diego Cuevas: dac208@pitt.edu
 ## Best Neighborhoods to find a ghost
 Deaths
 https://data.wprdc.org/dataset/allegheny-county-mortality-indicators
