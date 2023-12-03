@@ -2,11 +2,11 @@
 ### Amy Mullen: Arm339@pitt.edu
 ### Diego Cuevas: dac208@pitt.edu
 ## Best Neighborhoods to find a ghost
-Deaths
-https://data.wprdc.org/dataset/allegheny-county-mortality-indicators \n
-House Ages
+*Deaths
+https://data.wprdc.org/dataset/allegheny-county-mortality-indicators
+*House Ages
 https://data.wprdc.org/dataset/pre-1950-housing
-Wooded Areas
+*Wooded Areas
 https://data.wprdc.org/dataset/allegheny-county-wooded-area-boundaries
 
 ## Overview
