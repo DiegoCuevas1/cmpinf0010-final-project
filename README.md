@@ -1,6 +1,12 @@
-# Spooky
-likelihood of seeing a ghost - cemeteries, abandoned houses, murders/violent deaths, missing persons - (chosen)
+# Spooky Vibe Rating Committee 
+### Amy Mullen: Arm339@pitt.edu
+## Best Neighborhoods to find a ghost
+Deaths
 https://data.wprdc.org/dataset/allegheny-county-mortality-indicators
-https://data.wprdc.org/dataset/allegheny-county-cemetery-outlines
+House Ages
 https://data.wprdc.org/dataset/pre-1950-housing
+Wooded Areas
 https://data.wprdc.org/dataset/allegheny-county-wooded-area-boundaries
+
+## Overview
+Using data from the Pittsburgh area neighborhoods on Deaths, House ages, and Wooded Areas to determine what the best neighborhoods are for ghost hunting.
